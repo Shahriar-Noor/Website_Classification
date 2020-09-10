@@ -1,0 +1,24 @@
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\bin\Debug\websites.mdb
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\bin\Debug\Website_Categorize.exe.config
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\bin\Debug\Website_Categorize.exe
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\bin\Debug\Website_Categorize.pdb
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.csprojAssemblyReference.cache
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.frmMain.resources
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.Properties.Resources.resources
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.SiteForm.resources
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.csproj.GenerateResource.cache
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.csproj.CoreCompileInputs.cache
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.exe
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\lo-ed2go-files.difference-engine.com_Resources_ncp-2_NCP.15.L11.Asn.Sln (1)\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.pdb
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\bin\Debug\websites.mdb
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\bin\Debug\Website_Categorize.exe.config
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\bin\Debug\Website_Categorize.exe
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\bin\Debug\Website_Categorize.pdb
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.csprojAssemblyReference.cache
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.frmMain.resources
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.Properties.Resources.resources
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.SiteForm.resources
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.csproj.GenerateResource.cache
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.csproj.CoreCompileInputs.cache
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.exe
+C:\Users\Shahriar\Desktop\Free Courses\Intermediate C#\Lectures\Lesson 11\Website_Categorize\Website_Categorize\Website_Categorize\obj\Debug\Website_Categorize.pdb
